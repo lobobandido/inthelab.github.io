@@ -12,6 +12,4 @@ const activeMenu = () => {
   }
 }
 
-
-
 activeMenu()
